@@ -1,0 +1,52 @@
+{
+    "data": {
+        "all": {
+            "link": "https://",
+            "condition": "off"
+        },
+        "allsosmed": {
+            "link": "https://",
+            "condition": "off"
+        },
+        "gc": {
+            "link": "https://chat.whatsapp.com/",
+            "condition": "off"
+        },
+        "ch": {
+            "link": "https://whatsapp.com/channel/",
+            "condition": "off"
+        },
+        "tiktok": {
+            "link": "https://www.tiktok.com/",
+            "condition": "off"
+        },
+        "fb": {
+            "link": "https://www.facebook.com/",
+            "condition": "off"
+        },
+        "twitter": {
+            "link": "https://x.com/",
+            "condition": "off"
+        },
+        "ig": {
+            "link": "https://www.instagram.com/",
+            "condition": "off"
+        },
+        "tg": {
+            "link": "https://t.me/",
+            "condition": "off"
+        },
+        "dc": {
+            "link": "https://discord.gg/",
+            "condition": "off"
+        },
+        "ytvid": {
+            "link": "https://youtu.be/",
+            "condition": "off"
+        },
+        "ytch": {
+            "link": "https://youtube.com/",
+            "condition": "off"
+        }
+    }
+}

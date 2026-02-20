@@ -1,0 +1,20 @@
+{
+  "jid": {
+    "0": "120363362634981196@g.us",
+    "1": "120363405056350380@g.us",
+    "2": "120363407142355421@g.us",
+    "3": "120363405987742067@g.us"
+  },
+  "banner": {
+    "0": "https://github.com/paraccode-byte/banner/blob/main/testing.jpg?raw=true",
+    "1": "https://github.com/paraccode-byte/banner/blob/main/testing2.jpg?raw=true",
+    "2": "https://raw.githubusercontent.com/paraccode-byte/banner/refs/heads/main/ce943782a6d95d5dd0be1e178458107b.jpg",
+    "3": "https://raw.githubusercontent.com/paraccode-byte/banner/refs/heads/main/0537ce4c25437f82bc5c6e2ad4a7b2f6.jpg"
+  },
+  "name": {
+    "0": "RB - bot",
+    "1": "My - rust",
+    "2": "New-bot",
+    "3": "paraf"
+  }
+}
